@@ -1,0 +1,13 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+trading_bot/
+
+# API Keys (NEVER commit these)
+config.yaml
+*.env
+
+# IDE settings
+.vscode/
